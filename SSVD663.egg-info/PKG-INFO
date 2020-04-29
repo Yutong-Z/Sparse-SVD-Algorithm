@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: SSVD663
+Version: 1.0
+Summary: A python relization of sparse singular value decomposition algorithm. It is based on paper "Biclustering via Sparse Singular Value Decomposition" written by Mihee Lee, Haipeng Shen, Jianhua Z. Huang, and J. S. Marron.
+Home-page: https://github.com/Yutong-Z/Sparse-SVD-Algorithm.git
+Author: Jiaxi Yin, Yutong Zhang
+Author-email: jy280@duke.edu,yz566@duke.edu
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN

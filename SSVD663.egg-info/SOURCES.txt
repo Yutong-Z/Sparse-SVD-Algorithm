@@ -1,0 +1,9 @@
+README.md
+setup.py
+SSVD663/__init__.py
+SSVD663.egg-info/PKG-INFO
+SSVD663.egg-info/SOURCES.txt
+SSVD663.egg-info/dependency_links.txt
+SSVD663.egg-info/not-zip-safe
+SSVD663.egg-info/requires.txt
+SSVD663.egg-info/top_level.txt
