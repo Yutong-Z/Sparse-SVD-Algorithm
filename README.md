@@ -5,7 +5,7 @@ Authors: Yutong Zhang, Jiaxi Yin
 
 #### Implementation of Sparse Singular Value Decomposition based on "Biclustering via Sparse Singular Value Decomposition" written by Mihee Lee, Haipeng Shen, Jianhua Z. Huang, and J. S. Marron.
 
-Package should be installed by `pip install SSVD663`
+Package should be installed by `pip install SSVD663`. It is avaliable on both PyPI (https://pypi.org/project/SSVD663/) and TestPyPI (https://test.pypi.org/project/SSVD663/).
 
 Load functions using `from SSVD663 import SSVD` and `from SSVD663 import SSVD_multi`
 
