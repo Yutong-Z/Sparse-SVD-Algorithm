@@ -12,7 +12,7 @@ with open("README.md", "r") as fh:
   long_description = fh.read()
   
 setup(name='SSVD663',
-      version='1.0',
+      version='1.2',
       description='A python relization of sparse singular value decomposition algorithm. It is based on paper "Biclustering via Sparse Singular Value Decomposition" written by Mihee Lee, Haipeng Shen, Jianhua Z. Huang, and J. S. Marron.',
       url='https://github.com/Yutong-Z/Sparse-SVD-Algorithm.git',
       author='Jiaxi Yin, Yutong Zhang',
@@ -20,5 +20,5 @@ setup(name='SSVD663',
       license='MIT',
       packages=find_packages(),
       zip_safe=False,
-      install_requires=['numpy','pandas',],
+      install_requires=['numpy','multiprocessing','functools'],
       )
