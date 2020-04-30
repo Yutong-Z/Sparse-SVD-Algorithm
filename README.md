@@ -31,7 +31,7 @@ s = singular value of SSVD
 
 v = right singular vector of SSVD
 
-### SSSVD_multi
+### SSVD_multi
 
 Inputs:
 
